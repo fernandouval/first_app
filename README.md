@@ -1,13 +1,13 @@
-== Welcome to my first <>APP<>
+# Welcome to my first <tt>APP<tt>
 
 1. At the command prompt, create a new Rails application:
        <tt>rails new myapp</tt> (where <tt>myapp</tt> is the application name)
 
   |-- app
-  |   |-- assets
-  |       |-- images
+  |[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)   |-- assets
+  *|       |-- images
   |       |-- javascripts
-  |       `-- stylesheets
+* # |       `-- stylesheets
   |   |-- controllers
   |   |-- helpers
   |   |-- mailers
